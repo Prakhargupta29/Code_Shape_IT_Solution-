@@ -30,10 +30,14 @@ Fully responsive and interactive UI with animations.
 ❌ No backend or database connectivity (frontend-only). 
 ❌ Not secure for production use.
 ✅ Suitable for demos, prototypes, or local mockups.
+![Screenshot 2025-05-07 142038](https://github.com/user-attachments/assets/679ecdba-5823-4bd2-a5a7-a4c6491ad387)
+
+![Screenshot 2025-05-07 142023](https://github.com/user-attachments/assets/c5bde23d-9811-49f3-b5cc-c0099d51fa86)
 
 ![Screenshot 2025-05-06 213143](https://github.com/user-attachments/assets/e42b5b2c-3910-4efd-8042-3a104b6ec3a9)
 
 ![Screenshot 2025-05-06 213124](https://github.com/user-attachments/assets/f3299b6b-59a8-4ba1-bd84-2f9a2418cc05)
+
 
 
 ✍️ Author Prakhar gupta Guided by: CodeShape IT Solution
