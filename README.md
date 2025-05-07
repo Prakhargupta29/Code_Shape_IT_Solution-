@@ -30,7 +30,6 @@ Fully responsive and interactive UI with animations.
 ❌ No backend or database connectivity (frontend-only). 
 ❌ Not secure for production use.
 ✅ Suitable for demos, prototypes, or local mockups.
-![Screenshot 2025-05-07 142038](https://github.com/user-attachments/assets/679ecdba-5823-4bd2-a5a7-a4c6491ad387)
 
 ![Screenshot 2025-05-07 142023](https://github.com/user-attachments/assets/c5bde23d-9811-49f3-b5cc-c0099d51fa86)
 
