@@ -305,10 +305,10 @@ function renderAdmin() {
 window.addEventListener("DOMContentLoaded", () => {
     if (!localStorage.getItem("candidates")) {
         const defaultCandidates = [
-            { id: 1, name: "Jane Smith" },
-            { id: 2, name: "John Doe" },
-            { id: 3, name: "Alex Johnson" },
-            { id: 4, name: "Sarah Williams" }
+            { id: 1, name: "Narendra Damodardas Modi" },
+            { id: 2, name: "Akhilesh Yadav" },
+            { id: 3, name: "Rahul Gandhi" },
+            { id: 4, name: "Mamata Banerjee" }
         ];
         saveCandidates(defaultCandidates);
     }
